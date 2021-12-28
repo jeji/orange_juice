@@ -3,21 +3,21 @@
 - You will take it as yourown risk for any damage
 - **(!) Please pay attention for the bold font and description with !"(!)"**
 
-# orange_juice
-A OrangePi zero shield/expand board specially designed for 3D printer with klipper firmware
+# Operation Code: Orange Juice
+Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
+Hence I'm using OrangePi Zero as a good alternative. A 20 dollar 512MB ram version meets all the requirments I need as a klipper host, and even little bit over kill.
 
-Due to current chipset shortage sitatuion, raspberry pi price increase to a unreasonable level. 
-Hence I'm using OrangePi Zero as a good alternative. A 512MB ram version with 20 dollars price meets all the requirments that klipper host, its performance match eveything that required by klipper 
+Due to Klipper has some advance features which need connect to gpio, it's not that convenience to use a pin header and connect to gpio pin every time. Instead of that, with this board it provides easier connection and more useful features:
 
-Key features:
 - A dedicate ADXL345 port from SPI1 
-- A dedicate MAX31865 port from gpio ports
+- A dedicate MAX31865 port from via SW SPI connection, compatible with adafruit MAX31865 design
 - Two USB port from orange pi function pin
 - A UART port for communicate with MCU board
-- A step down buck converter for convert 9~24v DC input to 5v DC
-- Three channel pwm output, voltage depends on input DC voltage
-- Two channel 5v output
+- A step-down buck converter to convert DC 9~24v input to DC 5v to supply pi and 5v output socket
+- Three gpio pin controlled channel pwm output, voltage depends on input DC voltage
+- Two channel persistent 5v output
 - A build in 3010 chip cooling fan position
+- Raspberry Pi 3B/4B board size and mount hole position compatible 
 
 - ![](images/top.png)  
 
