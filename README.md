@@ -2,7 +2,7 @@
 - **(!) Currently version is still under verifying phase, DO NOT use it at this moment! I just upload files here for version control.**
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while diy Voron 3d printer
 - You will take it as your own risk for any potential damages
-- OrangePi Zero H2+ CPU is being reported has overheat issue, hence a proper cool fan is strongly recommend
+- OrangePi Zero H2+ CPU is being reported has overheat issue, hence a proper cool fan even with cooling fin is strongly recommend
 - **(!) Please pay attention for the bold font and description with "(!)"**
 
 # Board Name: Orange Juice
