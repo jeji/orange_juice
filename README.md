@@ -19,6 +19,6 @@ Key features:
 - Two channel 5v output
 - A build in 3010 chip cooling fan position
 
-- ![](images/front.png)  
+- ![](images/top.png)  
 
 
