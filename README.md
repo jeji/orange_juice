@@ -3,7 +3,7 @@
 - You will take it as your own risk for any potential damages
 - **(!) Please pay attention for the bold font and description with !"(!)"**
 
-# Operation Code: Orange Juice
+# Board Name: Orange Juice
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
 Hence I'm using OrangePi Zero as a good alternative. A 20 dollar 512MB ram version meets all the requirments I need as a klipper host, and even little bit over kill.
 
