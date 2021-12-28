@@ -1,7 +1,7 @@
 # Before you start
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while diy Voron 3d printer
-- You will take full risk by yourself for any damage
-- **(!) 请格外注意粗体字和带!的部分 "(!)"**
+- You will take it as yourown risk for any damage
+- **(!) Please pay attention for the bold font and description with !"(!)"**
 
 # orange_juice
 A OrangePi zero shield/expand board specially designed for 3D printer with klipper firmware
