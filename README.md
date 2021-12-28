@@ -10,8 +10,8 @@ Hence OrangePi Zero become a good alternative. A 25 dollar 512MB ram version mee
 
 Klipper has some advance features which need connect to gpio, it's not that convenience to use a pin header and connect to gpio pin every time. Instead of that, with this board it provides easier connection and more useful features:
 
-- A dedicate ADXL345 port from SPI1 
-- A dedicate MAX31865 port from via SW SPI connection, compatible with adafruit MAX31865 design
+- A dedicate ADXL345 port from OrangePi zero SPI1
+- A dedicate MAX31865 port via gpio as SW SPI connection, compatible with adafruit MAX31865 design
 - Two USB port from orange pi function pin
 - A UART port for communicate with MCU board
 - A step-down buck converter to convert DC 9~24v input to DC 5v to supply pi and 5v output socket
