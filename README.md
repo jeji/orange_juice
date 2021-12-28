@@ -1,3 +1,5 @@
+**(!) Currently version is still under verifying phase, DO NOT use it at this moment! I'm just upload files here for version control.**
+
 # Before you start
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while diy Voron 3d printer
 - You will take it as your own risk for any potential damages
