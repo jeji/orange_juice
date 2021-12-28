@@ -21,10 +21,10 @@ Klipper has some advance features which need connect to gpio, it's not that conv
 - A build in 3010 chip cooling fan position
 - Raspberry Pi 3B/4B board size and mount hole position compatible 
 
-- ![](images/top.png)  
+![](images/top.png)  
 
-- ![](images/front.png)  
+![](images/front.png)  
 
-- ![](images/bottom.png)  
+![](images/bottom.png)  
 
 
