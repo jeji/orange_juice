@@ -23,6 +23,8 @@ Klipper has some advance features which need connect to gpio, it's not that conv
 
 ![](images/top.png)  
 
+![](images/back.png)  
+
 ![](images/front.png)  
 
 ![](images/bottom.png)  
