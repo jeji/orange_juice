@@ -25,7 +25,7 @@ F 4 "~" H 2050 3600 50  0001 C CNN "Datasheet"
 F 5 "Connector_PinSocket_2.54mm:PinSocket_2x13_P2.54mm_Vertical" H 2050 3600 50  0001 C CNN "Footprint"
 F 6 "J4" H 2050 3600 50  0001 C CNN "Reference"
 F 7 "OrangePi Zero GPIO PINs" H 2050 3600 50  0001 C CNN "Value"
-F 8 "C64320" H 2050 3600 50  0001 C CNN "LCSC Part#"
+F 8 "" H 2050 3600 50  0001 C CNN "LCSC Part#"
 	1    2050 3600
 	1    0    0    -1  
 $EndComp
@@ -768,7 +768,7 @@ F 4 "~" H 4300 3600 50  0001 C CNN "Datasheet"
 F 5 "Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical" H 4300 3600 50  0001 C CNN "Footprint"
 F 6 "J7" H 4300 3600 50  0001 C CNN "Reference"
 F 7 "OrangePi Zero Function Interface" H 4300 3600 50  0001 C CNN "Value"
-F 8 "C52709" H 4300 3600 50  0001 C CNN "LCSC Part#"
+F 8 "" H 4300 3600 50  0001 C CNN "LCSC Part#"
 	1    4300 3600
 	1    0    0    -1  
 $EndComp
@@ -1533,7 +1533,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 1150 2950 1150
 $Comp
-L JerryKiCAD:USB_A_Port_x2 USB1
+L OrangePiZeroExtentionBoard-rescue:USB_A_Port_x2-JerryKiCAD USB1
 U 1 1 61F6FF4E
 P 2600 6950
 F 0 "USB1" H 2700 7365 50  0000 C CNN
