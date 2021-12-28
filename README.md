@@ -6,7 +6,7 @@
 
 # Board Name: Orange Juice
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
-Hence I'm using OrangePi Zero as a good alternative. A 20 dollar 512MB ram version meets all the requirments I need as a klipper host, and even little bit over kill.
+Hence OrangePi Zero become a good alternative. A 25 dollar 512MB ram version meets all the requirments I need as a klipper host for my Voron V0.1, and even little bit over kill.
 
 Klipper has some advance features which need connect to gpio, it's not that convenience to use a pin header and connect to gpio pin every time. Instead of that, with this board it provides easier connection and more useful features:
 
