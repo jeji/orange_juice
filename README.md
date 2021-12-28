@@ -21,4 +21,8 @@ Due to Klipper has some advance features which need connect to gpio, it's not th
 
 - ![](images/top.png)  
 
+- ![](images/front.png)  
+
+- ![](images/bottom.png)  
+
 
