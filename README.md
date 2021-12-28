@@ -1,6 +1,6 @@
 # Before you start
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while diy Voron 3d printer
-- You will take it as yourown risk for any damage
+- You will take it as your own risk for any potential damages
 - **(!) Please pay attention for the bold font and description with !"(!)"**
 
 # Operation Code: Orange Juice
