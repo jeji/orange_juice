@@ -7,7 +7,7 @@
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
 Hence I'm using OrangePi Zero as a good alternative. A 20 dollar 512MB ram version meets all the requirments I need as a klipper host, and even little bit over kill.
 
-Due to Klipper has some advance features which need connect to gpio, it's not that convenience to use a pin header and connect to gpio pin every time. Instead of that, with this board it provides easier connection and more useful features:
+Klipper has some advance features which need connect to gpio, it's not that convenience to use a pin header and connect to gpio pin every time. Instead of that, with this board it provides easier connection and more useful features:
 
 - A dedicate ADXL345 port from SPI1 
 - A dedicate MAX31865 port from via SW SPI connection, compatible with adafruit MAX31865 design
