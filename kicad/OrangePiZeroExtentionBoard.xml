@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\cninjeji\Documents\GitHub\orange_juice\kicad\OrangePiZeroExtentionBoard.sch</source>
+    <date>2021/12/29 10:18:14</date>
+    <tool>Eeschema (5.1.12)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Orange Pi Zero Adapter</title>
+        <company>Stone-Jerry</company>
+        <rev>v0.1</rev>
+        <date/>
+        <source>OrangePiZeroExtentionBoard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J4">
+      <value>OrangePi Zero GPIO PINs</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x13_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_2x13_P2.54mm_Vertical</field>
+        <field name="Reference">J4</field>
+        <field name="Value">OrangePi Zero GPIO PINs</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_02x13_Odd_Even-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C55661</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>CONN_ADXL345</value>
+      <footprint>Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C144397</field>
+        <field name="Reference">J3</field>
+        <field name="Value">CONN_ADXL345</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x06-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C6A107</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_MAX31865</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical</field>
+        <field name="LCSC Part#">C40877</field>
+        <field name="Reference">J5</field>
+        <field name="Value">Conn_MAX31865</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x06-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C6FAAE</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>FAN_5v</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J8</field>
+        <field name="Value">FAN_5v</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C719B6</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="LCSC Part#">C29277</field>
+        <field name="Reference">C1</field>
+        <field name="Value">22u</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="C_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C802E4</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="LCSC Part#">C29277</field>
+        <field name="Reference">C3</field>
+        <field name="Value">22u</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="C_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C8A487</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C185292</field>
+        <field name="Reference">R13</field>
+        <field name="Value">240</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CF934E</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C126350</field>
+        <field name="Reference">R12</field>
+        <field name="Value">3k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CED384</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C84376</field>
+        <field name="Reference">R11</field>
+        <field name="Value">10k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CECBF4</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>220u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.4</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Capacitor_SMD:CP_Elec_6.3x5.4</field>
+        <field name="LCSC Part#">C3345</field>
+        <field name="Reference">C5</field>
+        <field name="Value">220u</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="CP1_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CE3CAF</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>15u</value>
+      <footprint>Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm</field>
+        <field name="LCSC Part#">C718391</field>
+        <field name="Reference">L1</field>
+        <field name="Value">15u</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="L_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CDFB49</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>B340A</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf</field>
+        <field name="Footprint">Diode_SMD:D_SMA</field>
+        <field name="LCSC Part#">C64982</field>
+        <field name="Reference">D4</field>
+        <field name="Value">B340A</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="B340-Diode" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD79B9</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="LCSC Part#">C519911</field>
+        <field name="Reference">C4</field>
+        <field name="Value">10n</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="C_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD387D</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>TPS5430</value>
+      <footprint>Package_SO:TI_SO-PowerPAD-8_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps5430.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps5430.pdf</field>
+        <field name="Footprint">Package_SO:TI_SO-PowerPAD-8_ThermalVias</field>
+        <field name="LCSC Part#">C9864</field>
+        <field name="Reference">U1</field>
+        <field name="Value">TPS5430</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="TPS5430DDA-Regulator_Switching" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C8BABE</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>21k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C137569</field>
+        <field name="Reference">R3</field>
+        <field name="Value">21k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CBEC60</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C96346</field>
+        <field name="Reference">R2</field>
+        <field name="Value">100k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CBE34B</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="LCSC Part#">C13585</field>
+        <field name="Reference">C2</field>
+        <field name="Value">10u</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="C_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CAE229</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="LCSC Part#">C306862</field>
+        <field name="Reference">Q1</field>
+        <field name="Value">AO3401A</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="AO3401A-Transistor_FET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CA2C10</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>OrangePi Zero Function Interface</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical</field>
+        <field name="Reference">J7</field>
+        <field name="Value">OrangePi Zero Function Interface</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x13-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C64C38</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="LCSC Part#">C700953</field>
+        <field name="Reference">Q2</field>
+        <field name="Value">AO3400A</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="AO3400A-Transistor_FET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D8E441</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>PWM_OUT1</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J10</field>
+        <field name="Value">PWM_OUT1</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D9643D</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C60816</field>
+        <field name="Reference">R4</field>
+        <field name="Value">4k7</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DA5B73</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="LCSC Part#">C700953</field>
+        <field name="Reference">Q3</field>
+        <field name="Value">AO3400A</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="AO3400A-Transistor_FET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC3BFF</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>PWM_OUT2</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J12</field>
+        <field name="Value">PWM_OUT2</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC3C0C</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>PWM2_STATUS</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
+        <field name="LCSC Part#">C84260</field>
+        <field name="Reference">D3</field>
+        <field name="Value">PWM2_STATUS</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="LED_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC3C14</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C60816</field>
+        <field name="Reference">R7</field>
+        <field name="Value">4k7</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC3C1D</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="LCSC Part#">C700953</field>
+        <field name="Reference">Q4</field>
+        <field name="Value">AO3400A</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="AO3400A-Transistor_FET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC91F9</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value>PWM_OUT3</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J15</field>
+        <field name="Value">PWM_OUT3</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC9206</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>PWM3_STATUS</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
+        <field name="LCSC Part#">C84260</field>
+        <field name="Reference">D5</field>
+        <field name="Value">PWM3_STATUS</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="LED_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC920E</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C60816</field>
+        <field name="Reference">R10</field>
+        <field name="Value">4k7</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61DC9217</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C105577</field>
+        <field name="Reference">R5</field>
+        <field name="Value">100</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C5DB06</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C84376</field>
+        <field name="Reference">R6</field>
+        <field name="Value">10k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C5E1C5</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C105577</field>
+        <field name="Reference">R8</field>
+        <field name="Value">100</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C6B7A4</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C84376</field>
+        <field name="Reference">R9</field>
+        <field name="Value">10k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C6B7AA</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C105577</field>
+        <field name="Reference">R14</field>
+        <field name="Value">100</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C6F693</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C84376</field>
+        <field name="Reference">R15</field>
+        <field name="Value">10k</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C6F699</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>PWR_LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
+        <field name="LCSC Part#">C84260</field>
+        <field name="Reference">D1</field>
+        <field name="Value">PWR_LED</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="LED_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CBF3A3</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="LCSC Part#">C60816</field>
+        <field name="Reference">R1</field>
+        <field name="Value">4k7</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CC4E95</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>DC_INPUT</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</field>
+        <field name="LCSC Part#">C784942</field>
+        <field name="Reference">J2</field>
+        <field name="Value">DC_INPUT</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Screw_Terminal_01x02-Connector" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61E0958F</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>FAN_12/24v</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J13</field>
+        <field name="Value">FAN_12/24v</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD4DBB</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>CONN_UART</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J11</field>
+        <field name="Value">CONN_UART</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C7A9C9</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>PWR_5v</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</field>
+        <field name="LCSC Part#">C158012</field>
+        <field name="Reference">J9</field>
+        <field name="Value">PWR_5v</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C82CE2</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MH_FAN</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Reference">H5</field>
+        <field name="Value">MH_FAN</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD2121</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>MH_FAN</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Reference">H6</field>
+        <field name="Value">MH_FAN</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD36B5</tstamp>
+    </comp>
+    <comp ref="H7">
+      <value>MH_FAN</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Reference">H7</field>
+        <field name="Value">MH_FAN</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD3871</tstamp>
+    </comp>
+    <comp ref="H8">
+      <value>MH_FAN</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Reference">H8</field>
+        <field name="Value">MH_FAN</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD3BD2</tstamp>
+    </comp>
+    <comp ref="H9">
+      <value>MH_MAX31865</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Reference">H9</field>
+        <field name="Value">MH_MAX31865</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD3E10</tstamp>
+    </comp>
+    <comp ref="H10">
+      <value>MH_MAX31865</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Reference">H10</field>
+        <field name="Value">MH_MAX31865</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD42EF</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MH_Board</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Value">MH_Board</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD640E</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MH_Board</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Value">MH_Board</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD6414</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MH_Board</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Value">MH_Board</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD641A</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MH_Board</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Value">MH_Board</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CD6420</tstamp>
+    </comp>
+    <comp ref="USB1">
+      <value>USB_A_Port_x2</value>
+      <footprint>Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked</footprint>
+      <fields>
+        <field name="Footprint">Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked</field>
+        <field name="LCSC Part#">C12049</field>
+        <field name="Reference">USB1</field>
+        <field name="Value">USB_A_Port_x2</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="USB_A_Port_x2-JerryKiCAD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61F6FF4E</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>PWM1_STATUS</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Datasheet">~</field>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
+        <field name="LCSC Part#">C84260</field>
+        <field name="Reference">D2</field>
+        <field name="Value">PWM1_STATUS</field>
+      </fields>
+      <libsource lib="OrangePiZeroExtentionBoard-rescue" part="LED_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D9C297</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="AO3400A-Transistor_FET">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3400A-Transistor_FET</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="AO3401A-Transistor_FET">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3401A-Transistor_FET</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="B340-Diode">
+      <footprints>
+        <fp>D*SMC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">B340-Diode</field>
+        <field name="Footprint">Diode_SMD:D_SMC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="CP1_Small-Device">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="C_Small-Device">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x02-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x06-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="Conn_01x13-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x13-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="Conn_02x13_Odd_Even-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x13_Odd_Even-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="LED_Small-Device">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="L_Small-Device">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="R_Small-Device">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="Screw_Terminal_01x02-Connector">
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02-Connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="TPS5430DDA-Regulator_Switching">
+      <footprints>
+        <fp>TI*SO*PowerPAD*ThermalVias*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS5430DDA-Regulator_Switching</field>
+        <field name="Footprint">Package_SO:TI_SO-PowerPAD-8_ThermalVias</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT" type="input"/>
+        <pin num="2" name="NC" type="NotConnected"/>
+        <pin num="3" name="NC" type="NotConnected"/>
+        <pin num="4" name="VSENSE" type="input"/>
+        <pin num="5" name="EN" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="VIN" type="power_in"/>
+        <pin num="8" name="PH" type="output"/>
+        <pin num="9" name="GNDPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="OrangePiZeroExtentionBoard-rescue" part="USB_A_Port_x2-JerryKiCAD">
+      <fields>
+        <field name="Reference">USBA</field>
+        <field name="Value">USB_A_Port_x2-JerryKiCAD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="1-UB" name="VCC" type="input"/>
+        <pin num="1-UC" name="VCC" type="input"/>
+        <pin num="1-UD" name="VCC" type="input"/>
+        <pin num="1-UE" name="VCC" type="input"/>
+        <pin num="1-UF" name="VCC" type="input"/>
+        <pin num="1-UG" name="VCC" type="input"/>
+        <pin num="1-UH" name="VCC" type="input"/>
+        <pin num="1-UI" name="VCC" type="input"/>
+        <pin num="2" name="D-" type="input"/>
+        <pin num="2-UB" name="D-" type="input"/>
+        <pin num="2-UC" name="D-" type="input"/>
+        <pin num="2-UD" name="D-" type="input"/>
+        <pin num="2-UE" name="D-" type="input"/>
+        <pin num="2-UF" name="D-" type="input"/>
+        <pin num="2-UG" name="D-" type="input"/>
+        <pin num="2-UH" name="D-" type="input"/>
+        <pin num="2-UI" name="D-" type="input"/>
+        <pin num="3" name="D+" type="input"/>
+        <pin num="3-UB" name="D+" type="input"/>
+        <pin num="3-UC" name="D+" type="input"/>
+        <pin num="3-UD" name="D+" type="input"/>
+        <pin num="3-UE" name="D+" type="input"/>
+        <pin num="3-UF" name="D+" type="input"/>
+        <pin num="3-UG" name="D+" type="input"/>
+        <pin num="3-UH" name="D+" type="input"/>
+        <pin num="3-UI" name="D+" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="4-UB" name="GND" type="input"/>
+        <pin num="4-UC" name="GND" type="input"/>
+        <pin num="4-UD" name="GND" type="input"/>
+        <pin num="4-UE" name="GND" type="input"/>
+        <pin num="4-UF" name="GND" type="input"/>
+        <pin num="4-UG" name="GND" type="input"/>
+        <pin num="4-UH" name="GND" type="input"/>
+        <pin num="4-UI" name="GND" type="input"/>
+        <pin num="5" name="VCC" type="input"/>
+        <pin num="5-UB" name="VCC" type="input"/>
+        <pin num="5-UC" name="VCC" type="input"/>
+        <pin num="5-UD" name="VCC" type="input"/>
+        <pin num="5-UE" name="VCC" type="input"/>
+        <pin num="5-UF" name="VCC" type="input"/>
+        <pin num="5-UG" name="VCC" type="input"/>
+        <pin num="5-UH" name="VCC" type="input"/>
+        <pin num="5-UI" name="VCC" type="input"/>
+        <pin num="6" name="D-" type="input"/>
+        <pin num="6-UB" name="D-" type="input"/>
+        <pin num="6-UC" name="D-" type="input"/>
+        <pin num="6-UD" name="D-" type="input"/>
+        <pin num="6-UE" name="D-" type="input"/>
+        <pin num="6-UF" name="D-" type="input"/>
+        <pin num="6-UG" name="D-" type="input"/>
+        <pin num="6-UH" name="D-" type="input"/>
+        <pin num="6-UI" name="D-" type="input"/>
+        <pin num="7" name="D+" type="input"/>
+        <pin num="7-UB" name="D+" type="input"/>
+        <pin num="7-UC" name="D+" type="input"/>
+        <pin num="7-UD" name="D+" type="input"/>
+        <pin num="7-UE" name="D+" type="input"/>
+        <pin num="7-UF" name="D+" type="input"/>
+        <pin num="7-UG" name="D+" type="input"/>
+        <pin num="7-UH" name="D+" type="input"/>
+        <pin num="7-UI" name="D+" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="8-UB" name="GND" type="input"/>
+        <pin num="8-UC" name="GND" type="input"/>
+        <pin num="8-UD" name="GND" type="input"/>
+        <pin num="8-UE" name="GND" type="input"/>
+        <pin num="8-UF" name="GND" type="input"/>
+        <pin num="8-UG" name="GND" type="input"/>
+        <pin num="8-UH" name="GND" type="input"/>
+        <pin num="8-UI" name="GND" type="input"/>
+        <pin num="9" name="Shield" type="NotConnected"/>
+        <pin num="9-UB" name="Shield" type="NotConnected"/>
+        <pin num="9-UC" name="Shield" type="NotConnected"/>
+        <pin num="9-UD" name="Shield" type="NotConnected"/>
+        <pin num="9-UE" name="Shield" type="NotConnected"/>
+        <pin num="9-UF" name="Shield" type="NotConnected"/>
+        <pin num="9-UG" name="Shield" type="NotConnected"/>
+        <pin num="9-UH" name="Shield" type="NotConnected"/>
+        <pin num="9-UI" name="Shield" type="NotConnected"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="OrangePiZeroExtentionBoard-rescue">
+      <uri>C:\Users\cninjeji\Documents\GitHub\orange_juice\kicad/OrangePiZeroExtentionBoard-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(Q2-Pad1)">
+      <node ref="R5" pin="1"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="2" name="Net-(D5-Pad1)">
+      <node ref="Q4" pin="3"/>
+      <node ref="D5" pin="1"/>
+      <node ref="J15" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="4" name="GPIO_10">
+      <node ref="R6" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="J4" pin="26"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="USB1" pin="4"/>
+      <node ref="J4" pin="14"/>
+      <node ref="J4" pin="20"/>
+      <node ref="J4" pin="25"/>
+      <node ref="J4" pin="6"/>
+      <node ref="J4" pin="9"/>
+      <node ref="USB1" pin="8"/>
+      <node ref="J5" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J9" pin="2"/>
+      <node ref="J13" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R13" pin="2"/>
+      <node ref="J7" pin="12"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="J8" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="6" name="Net-(Q4-Pad1)">
+      <node ref="R14" pin="1"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="7" name="GPIO_18">
+      <node ref="J4" pin="18"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="8" name="GPIO_19">
+      <node ref="J4" pin="16"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="9" name="Net-(Q3-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="Q3" pin="1"/>
+    </net>
+    <net code="10" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="11" name="USB_DM3">
+      <node ref="USB1" pin="6"/>
+      <node ref="J7" pin="9"/>
+    </net>
+    <net code="12" name="USB_DP3">
+      <node ref="USB1" pin="7"/>
+      <node ref="J7" pin="8"/>
+    </net>
+    <net code="13" name="Net-(J7-Pad7)">
+      <node ref="J7" pin="7"/>
+    </net>
+    <net code="14" name="Net-(J7-Pad6)">
+      <node ref="J7" pin="6"/>
+    </net>
+    <net code="15" name="Net-(J7-Pad5)">
+      <node ref="J7" pin="5"/>
+    </net>
+    <net code="16" name="Net-(J7-Pad4)">
+      <node ref="J7" pin="4"/>
+    </net>
+    <net code="17" name="Net-(J7-Pad3)">
+      <node ref="J7" pin="3"/>
+    </net>
+    <net code="18" name="Net-(J7-Pad2)">
+      <node ref="J7" pin="2"/>
+    </net>
+    <net code="19" name="USB_DM2">
+      <node ref="J7" pin="11"/>
+      <node ref="USB1" pin="2"/>
+    </net>
+    <net code="20" name="USB_DP2">
+      <node ref="USB1" pin="3"/>
+      <node ref="J7" pin="10"/>
+    </net>
+    <net code="21" name="+3V3">
+      <node ref="J5" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J4" pin="17"/>
+    </net>
+    <net code="22" name="DCIN">
+      <node ref="J12" pin="1"/>
+      <node ref="J13" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="J10" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="J15" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="24" name="Net-(D3-Pad1)">
+      <node ref="Q3" pin="3"/>
+      <node ref="J12" pin="2"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="25" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="J10" pin="2"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="26" name="Net-(USB1-Pad9)">
+      <node ref="USB1" pin="9"/>
+    </net>
+    <net code="27" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="28" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="29" name="Net-(D1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="30" name="BUCK_IN">
+      <node ref="C2" pin="1"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="31" name="Net-(J4-Pad12)">
+      <node ref="J4" pin="12"/>
+    </net>
+    <net code="32" name="Net-(J4-Pad7)">
+      <node ref="J4" pin="7"/>
+    </net>
+    <net code="33" name="Net-(J4-Pad5)">
+      <node ref="J4" pin="5"/>
+    </net>
+    <net code="34" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="35" name="UART1_TX">
+      <node ref="J11" pin="2"/>
+      <node ref="J4" pin="10"/>
+    </net>
+    <net code="36" name="UART1_RX">
+      <node ref="J4" pin="8"/>
+      <node ref="J11" pin="1"/>
+    </net>
+    <net code="37" name="SPI1_CS">
+      <node ref="J3" pin="3"/>
+      <node ref="J4" pin="24"/>
+    </net>
+    <net code="38" name="SPI1_MISO">
+      <node ref="J3" pin="4"/>
+      <node ref="J4" pin="21"/>
+    </net>
+    <net code="39" name="GPIO_2_CLK">
+      <node ref="J4" pin="22"/>
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="40" name="SPI1_CLK">
+      <node ref="J3" pin="6"/>
+      <node ref="J4" pin="23"/>
+    </net>
+    <net code="41" name="SPI1_MOSI">
+      <node ref="J3" pin="5"/>
+      <node ref="J4" pin="19"/>
+    </net>
+    <net code="42" name="GPIO_3_SDO">
+      <node ref="J5" pin="4"/>
+      <node ref="J4" pin="15"/>
+    </net>
+    <net code="43" name="GPIO_0_SDI">
+      <node ref="J4" pin="13"/>
+      <node ref="J5" pin="5"/>
+    </net>
+    <net code="44" name="GPIO_1_CS">
+      <node ref="J4" pin="11"/>
+      <node ref="J5" pin="6"/>
+    </net>
+    <net code="45" name="+5V">
+      <node ref="J4" pin="2"/>
+      <node ref="J7" pin="13"/>
+      <node ref="J4" pin="4"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="USB1" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="L1" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J9" pin="1"/>
+      <node ref="USB1" pin="5"/>
+    </net>
+    <net code="46" name="BUCK_VSNS">
+      <node ref="U1" pin="4"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="47" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="48" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="49" name="BUCK_BOOT">
+      <node ref="U1" pin="1"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="50" name="BUCK_EN">
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="51" name="BUCK_PH">
+      <node ref="C4" pin="2"/>
+      <node ref="D4" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="52" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="R13" pin="1"/>
+    </net>
+  </nets>
+</export>
