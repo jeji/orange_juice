@@ -1,5 +1,7 @@
 **(!) 当前版本尚未完成验证测试，请暂时不要使用！目前只是为了做版本控制而放置在这。** \
 **(!) Current version is still under verifying, DO NOT use it at this moment! I just upload files here for version control**
+# 版本信息 Release Note
+2022/1/4: v0.1 alpha version, for 1st round proof board with initial design
 
 # 开始之前 Before you start 
 - 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机
