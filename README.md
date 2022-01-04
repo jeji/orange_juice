@@ -1,4 +1,4 @@
-**(!) 当前版本尚未完成验证测试，请暂时不要使用！目前只是为了做版本控制而放置在这。**
+**(!) 当前版本尚未完成验证测试，请暂时不要使用！目前只是为了做版本控制而放置在这。** \
 **(!) Current version is still under verifying, DO NOT use it at this moment! I just upload files here for version control**
 
 # 开始之前 Before you start 
@@ -13,13 +13,11 @@
 
 # 代号：橙汁 Board Name: Orange Juice
 受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
-所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。
-
+所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。\
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
 Hence OrangePi Zero become a good alternative. A 25 dollars 512MB ram version meets all the requirments I need as a klipper host for my Voron V0.1, and actually even little bit over kill.
 
-klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端子去连接非常的不方便。在使用扩展板后不仅方便了许多，且可以得到额外的功能：
-
+klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端子去连接非常的不方便。在使用扩展板后不仅方便了许多，且可以得到额外的功能：\
 Klipper has some advance features which need connect to gpio pins, it's not that convenience to use a pin header to connect gpio pin every time. Instead of that, with this board, it provides easier connection and more useful features:
 
 - 一个专为[ADXL345](https://www.adafruit.com/product/1231) 设计的接口将香橙派SPI1总线引出
