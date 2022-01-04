@@ -2,10 +2,10 @@
 **(!) Current version is still under verifying, DO NOT use it at this moment! I just upload files here for version control**
 
 # 开始之前 Before you start 
-- 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机。
+- 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机
 - 你将自行承担由此带来的所有风险
 - 社区有诸多反馈香橙派zero的CPU温度过高，所以在使用中请加强散热
-- 本项目为基于GNU3.0的开源项目，欢迎魔改。如果你有更好的改进也请务必与我分享。
+- 本项目为基于GNU3.0的开源项目，欢迎魔改。如果你有更好的改进也请务必与我分享
 - **(!) 请特别注意文章中加粗和带"(!)"部分的内容**
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while DIY my Voron printer
 - You will take it as your own risk for any potential damages
