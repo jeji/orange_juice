@@ -15,7 +15,7 @@
 - You will take it as your own risk for any potential damages
 - OrangePi Zero H2+ CPU is being reported has overheat issue, hence a proper cooling fan even with cooling fin is strongly recommended
 - This project is based GPL3.0 license, you are free to modify it to yourown version. Please do share the joy with me if you did that
-- **(!) Please pay attention for the bold font and description with "(!)"**
+- **(!) Please pay attention for the bold and with "(!)" content**
 
 # 代号：橙汁 Board Name: Orange Juice
 受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
