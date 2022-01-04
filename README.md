@@ -1,10 +1,11 @@
+**(!) 当前版本尚未完成验证测试，请暂时不要使用！目前只是为了做版本控制而放置在这。**
+- **(!) Current version is still under verifying, DO NOT use it at this moment! I just upload files here for version control**
+
 # 开始之前 Before you start 
-- **(!) 当前版本尚未完成验证测试，请暂时不要使用！目前只是为了做版本控制而放置在这。**
 - 我并不是专业的电子工程师，设计本项目只是为了好玩和方便我DIY Voron 3D打印机。
 - 你将自行承担由此带来的所有风险
 - 社区已经有诸多反馈香橙派zero的CPU温度过高，所以在使用中请加强散热
 - **(!) 请特别注意文章中加粗和带"(!)"部分的内容**
-- **(!) Current version is still under verifying, DO NOT use it at this moment! I just upload files here for version control**
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while DIY my Voron printer
 - You will take it as your own risk for any potential damages
 - OrangePi Zero H2+ CPU is being reported has overheat issue, hence a proper cooling fan even with cooling fin is strongly recommended
@@ -13,10 +14,12 @@
 # 代号：橙汁 Board Name: Orange Juice
 受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
 所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。
+
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
 Hence OrangePi Zero become a good alternative. A 25 dollars 512MB ram version meets all the requirments I need as a klipper host for my Voron V0.1, and actually even little bit over kill.
 
 klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端子去连接非常的不方便。在使用扩展板后不仅方便了许多，且可以得到额外的功能：
+
 Klipper has some advance features which need connect to gpio pins, it's not that convenience to use a pin header to connect gpio pin every time. Instead of that, with this board, it provides easier connection and more useful features:
 
 - 一个专为[ADXL345](https://www.adafruit.com/product/1231) 设计的接口将香橙派SPI1总线引出
