@@ -5,10 +5,12 @@
 - 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机。
 - 你将自行承担由此带来的所有风险
 - 社区有诸多反馈香橙派zero的CPU温度过高，所以在使用中请加强散热
+- 本项目为基于GNU3.0的开源项目，欢迎魔改。如果你有更好的改进也请务必与我分享。
 - **(!) 请特别注意文章中加粗和带"(!)"部分的内容**
 - I'm not a prefesstional electronic engineer, I designed this for fun and convenience while DIY my Voron printer
 - You will take it as your own risk for any potential damages
 - OrangePi Zero H2+ CPU is being reported has overheat issue, hence a proper cooling fan even with cooling fin is strongly recommended
+- This project is based GNU3.0 license, you are welcome to upgrade or modify it. Please do share the joy with me if you did that
 - **(!) Please pay attention for the bold font and description with "(!)"**
 
 # 代号：橙汁 Board Name: Orange Juice
