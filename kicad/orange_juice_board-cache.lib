@@ -16,11 +16,11 @@ C 0 0 50 0 1 50 N
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_+3.3V-power
+# orange_juice_board-rescue_+3.3V-power-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_+3.3V-power #PWR 0 0 Y Y 1 F P
+DEF orange_juice_board-rescue_+3.3V-power-OrangePiZeroExtentionBoard-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_+3.3V-power" 0 140 50 H V C CNN
+F1 "orange_juice_board-rescue_+3.3V-power-OrangePiZeroExtentionBoard-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -31,11 +31,11 @@ X +3V3 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_+5V-power
+# orange_juice_board-rescue_+5V-power-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_+5V-power #PWR 0 0 Y Y 1 F P
+DEF orange_juice_board-rescue_+5V-power-OrangePiZeroExtentionBoard-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_+5V-power" 0 140 50 H V C CNN
+F1 "orange_juice_board-rescue_+5V-power-OrangePiZeroExtentionBoard-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -46,11 +46,11 @@ X +5V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_AO3400A-Transistor_FET
+# orange_juice_board-rescue_AO3400A-Transistor_FET-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_AO3400A-Transistor_FET Q 0 20 Y N 1 F N
+DEF orange_juice_board-rescue_AO3400A-Transistor_FET-OrangePiZeroExtentionBoard-rescue Q 0 20 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_AO3400A-Transistor_FET" 200 0 50 H V L CNN
+F1 "orange_juice_board-rescue_AO3400A-Transistor_FET-OrangePiZeroExtentionBoard-rescue" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
@@ -77,11 +77,11 @@ X D 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_AO3401A-Transistor_FET
+# orange_juice_board-rescue_AO3401A-Transistor_FET-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_AO3401A-Transistor_FET Q 0 20 Y N 1 F N
+DEF orange_juice_board-rescue_AO3401A-Transistor_FET-OrangePiZeroExtentionBoard-rescue Q 0 20 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_AO3401A-Transistor_FET" 200 0 50 H V L CNN
+F1 "orange_juice_board-rescue_AO3401A-Transistor_FET-OrangePiZeroExtentionBoard-rescue" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
@@ -108,11 +108,11 @@ X D 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_B340-Diode
+# orange_juice_board-rescue_B340-Diode-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_B340-Diode D 0 40 N N 1 F N
+DEF orange_juice_board-rescue_B340-Diode-OrangePiZeroExtentionBoard-rescue D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_B340-Diode" 0 -100 50 H V C CNN
+F1 "orange_juice_board-rescue_B340-Diode-OrangePiZeroExtentionBoard-rescue" 0 -100 50 H V C CNN
 F2 "Diode_SMD:D_SMC" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -127,11 +127,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_CP1_Small-Device
+# orange_juice_board-rescue_CP1_Small-Device-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_CP1_Small-Device C 0 10 N N 1 F N
+DEF orange_juice_board-rescue_CP1_Small-Device-OrangePiZeroExtentionBoard-rescue C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_CP1_Small-Device" 10 -80 50 H V L CNN
+F1 "orange_juice_board-rescue_CP1_Small-Device-OrangePiZeroExtentionBoard-rescue" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -147,11 +147,11 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_C_Small-Device
+# orange_juice_board-rescue_C_Small-Device-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_C_Small-Device C 0 10 N N 1 F N
+DEF orange_juice_board-rescue_C_Small-Device-OrangePiZeroExtentionBoard-rescue C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_C_Small-Device" 10 -80 50 H V L CNN
+F1 "orange_juice_board-rescue_C_Small-Device-OrangePiZeroExtentionBoard-rescue" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -165,11 +165,11 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_Conn_01x02-Connector_Generic
+# orange_juice_board-rescue_Conn_01x02-Connector_Generic-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_Conn_01x02-Connector_Generic J 0 40 Y N 1 F N
+DEF orange_juice_board-rescue_Conn_01x02-Connector_Generic-OrangePiZeroExtentionBoard-rescue J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_Conn_01x02-Connector_Generic" 0 -200 50 H V C CNN
+F1 "orange_juice_board-rescue_Conn_01x02-Connector_Generic-OrangePiZeroExtentionBoard-rescue" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -184,11 +184,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_Conn_01x06-Connector_Generic
+# orange_juice_board-rescue_Conn_01x06-Connector_Generic-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_Conn_01x06-Connector_Generic J 0 40 Y N 1 F N
+DEF orange_juice_board-rescue_Conn_01x06-Connector_Generic-OrangePiZeroExtentionBoard-rescue J 0 40 Y N 1 F N
 F0 "J" 0 300 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_Conn_01x06-Connector_Generic" 0 -400 50 H V C CNN
+F1 "orange_juice_board-rescue_Conn_01x06-Connector_Generic-OrangePiZeroExtentionBoard-rescue" 0 -400 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -211,11 +211,11 @@ X Pin_6 6 -200 -300 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_Conn_01x13-Connector_Generic
+# orange_juice_board-rescue_Conn_01x13-Connector_Generic-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_Conn_01x13-Connector_Generic J 0 40 Y N 1 F N
+DEF orange_juice_board-rescue_Conn_01x13-Connector_Generic-OrangePiZeroExtentionBoard-rescue J 0 40 Y N 1 F N
 F0 "J" 0 700 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_Conn_01x13-Connector_Generic" 0 -700 50 H V C CNN
+F1 "orange_juice_board-rescue_Conn_01x13-Connector_Generic-OrangePiZeroExtentionBoard-rescue" 0 -700 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -252,11 +252,11 @@ X Pin_9 9 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_Conn_02x13_Odd_Even-Connector_Generic
+# orange_juice_board-rescue_Conn_02x13_Odd_Even-Connector_Generic-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_Conn_02x13_Odd_Even-Connector_Generic J 0 40 Y N 1 F N
+DEF orange_juice_board-rescue_Conn_02x13_Odd_Even-Connector_Generic-OrangePiZeroExtentionBoard-rescue J 0 40 Y N 1 F N
 F0 "J" 50 700 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_Conn_02x13_Odd_Even-Connector_Generic" 50 -700 50 H V C CNN
+F1 "orange_juice_board-rescue_Conn_02x13_Odd_Even-Connector_Generic-OrangePiZeroExtentionBoard-rescue" 50 -700 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -319,11 +319,11 @@ X Pin_9 9 -200 200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_GND-power
+# orange_juice_board-rescue_GND-power-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_GND-power #PWR 0 0 Y Y 1 F P
+DEF orange_juice_board-rescue_GND-power-OrangePiZeroExtentionBoard-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_GND-power" 0 -150 50 H V C CNN
+F1 "orange_juice_board-rescue_GND-power-OrangePiZeroExtentionBoard-rescue" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -332,11 +332,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_LED_Small-Device
+# orange_juice_board-rescue_LED_Small-Device-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_LED_Small-Device D 0 10 N N 1 F N
+DEF orange_juice_board-rescue_LED_Small-Device-OrangePiZeroExtentionBoard-rescue D 0 10 N N 1 F N
 F0 "D" -50 125 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_LED_Small-Device" -175 -100 50 H V L CNN
+F1 "orange_juice_board-rescue_LED_Small-Device-OrangePiZeroExtentionBoard-rescue" -175 -100 50 H V L CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
 $FPLIST
@@ -355,11 +355,11 @@ X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_L_Small-Device
+# orange_juice_board-rescue_L_Small-Device-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_L_Small-Device L 0 10 N N 1 F N
+DEF orange_juice_board-rescue_L_Small-Device-OrangePiZeroExtentionBoard-rescue L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_L_Small-Device" 30 -40 50 H V L CNN
+F1 "orange_juice_board-rescue_L_Small-Device-OrangePiZeroExtentionBoard-rescue" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -378,11 +378,11 @@ X ~ 2 0 -100 20 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_R_Small-Device
+# orange_juice_board-rescue_R_Small-Device-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_R_Small-Device R 0 10 N N 1 F N
+DEF orange_juice_board-rescue_R_Small-Device-OrangePiZeroExtentionBoard-rescue R 0 10 N N 1 F N
 F0 "R" 30 20 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_R_Small-Device" 30 -40 50 H V L CNN
+F1 "orange_juice_board-rescue_R_Small-Device-OrangePiZeroExtentionBoard-rescue" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -395,11 +395,11 @@ X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_Screw_Terminal_01x02-Connector
+# orange_juice_board-rescue_Screw_Terminal_01x02-Connector-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_Screw_Terminal_01x02-Connector J 0 40 Y N 1 F N
+DEF orange_juice_board-rescue_Screw_Terminal_01x02-Connector-OrangePiZeroExtentionBoard-rescue J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_Screw_Terminal_01x02-Connector" 0 -200 50 H V C CNN
+F1 "orange_juice_board-rescue_Screw_Terminal_01x02-Connector-OrangePiZeroExtentionBoard-rescue" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -418,11 +418,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_TPS5430DDA-Regulator_Switching
+# orange_juice_board-rescue_TPS5430DDA-Regulator_Switching-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_TPS5430DDA-Regulator_Switching U 0 20 Y Y 1 F N
+DEF orange_juice_board-rescue_TPS5430DDA-Regulator_Switching-OrangePiZeroExtentionBoard-rescue U 0 20 Y Y 1 F N
 F0 "U" -400 350 50 H V L CNN
-F1 "OrangePiZeroExtentionBoard-rescue_TPS5430DDA-Regulator_Switching" -50 350 50 H V L CNN
+F1 "orange_juice_board-rescue_TPS5430DDA-Regulator_Switching-OrangePiZeroExtentionBoard-rescue" -50 350 50 H V L CNN
 F2 "Package_SO:TI_SO-PowerPAD-8_ThermalVias" 50 -350 50 H I L CIN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -442,11 +442,11 @@ X GNDPAD 9 0 -400 100 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# OrangePiZeroExtentionBoard-rescue_USB_A_Port_x2-JerryKiCAD
+# orange_juice_board-rescue_USB_A_Port_x2-JerryKiCAD-OrangePiZeroExtentionBoard-rescue
 #
-DEF OrangePiZeroExtentionBoard-rescue_USB_A_Port_x2-JerryKiCAD USBA 0 40 Y Y 9 F N
+DEF orange_juice_board-rescue_USB_A_Port_x2-JerryKiCAD-OrangePiZeroExtentionBoard-rescue USBA 0 40 Y Y 9 F N
 F0 "USBA" 100 400 50 H V C CNN
-F1 "OrangePiZeroExtentionBoard-rescue_USB_A_Port_x2-JerryKiCAD" 100 300 50 H V C CNN
+F1 "orange_juice_board-rescue_USB_A_Port_x2-JerryKiCAD-OrangePiZeroExtentionBoard-rescue" 100 300 50 H V C CNN
 F2 "" 0 250 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
 DRAW

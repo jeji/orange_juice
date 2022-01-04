@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name OrangePiZeroExtentionBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/OrangePiZeroExtentionBoard-rescue.lib)(options "")(descr ""))
+  (lib (name orange_juice_board-rescue)(type Legacy)(uri ${KIPRJMOD}/orange_juice_board-rescue.lib)(options "")(descr ""))
 )
