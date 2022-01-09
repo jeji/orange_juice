@@ -21,6 +21,10 @@
 受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
 所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。\
 
+![](images/orange_juice_board_front.png)  
+
+![](images/orange_juice_board_back.png)  
+
 klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端子去连接非常的不方便。在使用扩展板后不仅方便了许多，且可以得到额外的功能：
 - 一个专为[ADXL345](https://www.adafruit.com/product/1231) 设计的接口将香橙派SPI1总线引出
 - 一个专为[Adafruit MAX31865 board](https://www.adafruit.com/product/3328) 及其克隆版本设计的接口，作为软SPI使用了4个gpio接口

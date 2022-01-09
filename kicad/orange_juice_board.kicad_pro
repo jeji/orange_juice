@@ -387,7 +387,7 @@
       "idf": "",
       "netlist": "orange_juice_board.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "orange_juice_board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
