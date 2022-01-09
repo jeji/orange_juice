@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "orange_juice_board-rescue")(type "Legacy")(uri "${KIPRJMOD}/orange_juice_board-rescue.lib")(options "")(descr ""))
+)
