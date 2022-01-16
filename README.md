@@ -13,17 +13,18 @@
 
 - I'm not prefesstional electronic engineer, I designed this for fun and convenience while DIY my Voron printer
 - You will take it as your own risk for any potential damages
-- OrangePi Zero H2+ CPU is being reported has overheat issue, hence a proper cooling fan even with cooling fin is strongly recommended
+- Overheat issue is being reported for OrangePi Zero H2+ CPU, hence a proper cooling fan even with cooling fin is strongly recommended
 - This project is based GPL3.0 license, you are free to modify it to yourown version. Please do share the joy with me if you did that
 - **(!) Please pay attention for the bold and with "(!)" content**
 
 # 代号：橙汁 Board Name: Orange Juice
-受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
-所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。\
 
 ![](images/orange_juice_board_front_s.png)  
 
-![](images/orange_juice_board_back_s.png)  
+![](images/orange_juice_board_back_s.png)  \
+
+受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
+所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。\
 
 klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端子去连接非常的不方便。在使用扩展板后不仅方便了许多，且可以得到额外的功能：
 - 一个专为[ADXL345](https://www.adafruit.com/product/1231) 设计的接口将香橙派SPI1总线引出
@@ -33,7 +34,7 @@ klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端
 - 三组gpio控制的PWM输出接口，输出电压与输入电压相同
 - 两组恒定5v输出接口
 - 一个香橙派专用散热3010风扇安装位
-- 预制降压电路，将9~28V输入电压降压为5V供香橙派使用
+- 自带降压电路，将9~28V输入电压降压为5V供香橙派使用
 - 扩展板大小及安装孔位与树莓派3/4一样
 
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
