@@ -1,3 +1,7 @@
+# 我的频道 My Channel 
+youtube: https://www.youtube.com/channel/UChTFW-Y9eg54AaTY_yama7A
+bilibili：https://b23.tv/pqzW2up
+
 # 版本信息 Release Note
 2022/1/30: v0.6 Bate release version, passed function and 2 hours stable test.
 
