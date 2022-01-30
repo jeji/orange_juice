@@ -60,10 +60,25 @@ Klipper has some advance features which need connect to gpio pins, it's not that
 
 # 如何使用 How to use
 ## 硬件 Hardware
-To be updated
-## 软件 Software
-To be updated
+PCB打板：[gerber文件](gerber/orange_juice_gerber_v0.6.zip)
+- 你可以在嘉立创或者其他你喜欢的厂商免费打板
+- 保持打板厂商默认设置即可
 
-# 采购单 BOM
+BOM：[电子元件BOM](bom/ibom_v0.6.html)
+- 在立创商城使用BOM单里lcsc part编号搜索即可找到对应原件型号
+- 我使用的元件购买至淘宝，主要来自优信
+- **(!) 香橙派针脚接头需要使用加高7.5mm的排母针脚，参考链接：[这里](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5abe2e8dp4SvIq&id=562698441144&_u=u181c59936e) **
+
+PCB board：[gerber file](gerber/orange_juice_gerber_v0.6.zip)
+- You can get the PCB board from JLC or other PCB manufactory 
+- Usually, keep the defualt setting shall be ok when you place your order
+
+BOM：[iBOM](bom/ibom_v0.6.html)
+- Search the component at [LCSC](https://lcsc.com/) via lcsc part number in the BOM
+- I got my component from my trust taobao.com shop due to more reasble price 
+- **(!) You need the famale pin head with 7.5mm extri height for orange pi, reference link: [Here](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5abe2e8dp4SvIq&id=562698441144&_u=u181c59936e) ** 
+
+
+## 软件 Software
 To be updated
 
