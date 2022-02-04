@@ -65,7 +65,7 @@
       36
     ],
     "visible_layers": "800beff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "orange_juice_board.kicad_prl",
