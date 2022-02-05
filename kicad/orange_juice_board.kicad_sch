@@ -4997,7 +4997,7 @@
     (uuid 68847f45-a180-4762-b13e-ddda7a221996)
     (property "Reference" "L1" (id 0) (at 208.28 26.67 90))
     (property "Value" "22uH" (id 1) (at 208.28 29.21 90))
-    (property "Footprint" "Inductor_SMD:L_7.3x7.3_H4.5" (id 2) (at 208.28 31.75 0)
+    (property "Footprint" "Inductor_SMD:L_Abracon_ASPI-0630LR" (id 2) (at 208.28 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 208.28 31.75 0)
@@ -5578,7 +5578,7 @@
       (reference "J14") (unit 1) (value "GPIO11_Head") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/68847f45-a180-4762-b13e-ddda7a221996"
-      (reference "L1") (unit 1) (value "22uH") (footprint "Inductor_SMD:L_7.3x7.3_H4.5")
+      (reference "L1") (unit 1) (value "22uH") (footprint "Inductor_SMD:L_Abracon_ASPI-0630LR")
     )
     (path "/00000000-0000-0000-0000-000061d8e441"
       (reference "Q2") (unit 1) (value "AO3400A") (footprint "Package_TO_SOT_SMD:SOT-23")
