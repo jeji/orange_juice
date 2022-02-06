@@ -1,5 +1,5 @@
 # 我的频道 My Channel 
-youtube: https://www.youtube.com/channel/UChTFW-Y9eg54AaTY_yama7A
+youtube: https://www.youtube.com/channel/UChTFW-Y9eg54AaTY_yama7A \
 bilibili：https://b23.tv/pqzW2up
 
 # 版本信息 Release Note
@@ -20,9 +20,9 @@ bilibili：https://b23.tv/pqzW2up
 
 # 代号：橙汁 BoardName：Orange Juice
 
-![](images/orange_juice_board_front_v0.6.png)  
+![](images/orange_juice_board_front_v0.7.png)  
 
-![](images/orange_juice_board_back_v0.6.png)  \
+![](images/orange_juice_board_back_v0.7.png)  
 
 受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
 所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。\
