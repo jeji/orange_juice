@@ -89,12 +89,14 @@ BOM：[iBOM](bom/ibom.html)
 ## 软件 Software
 To be updated
 Following configuration is assumping that your pi has been configed as a MCU, guidence here
-ADXL345配置 ADXL345 configuration
+ADXL345配置 \
+ADXL345 configuration
 
 
-MAX31865配置 MAX31865 configuration 
+MAX31865配置 \
+MAX31865 configuration 
 
 
-PWM接口配置 PWM Port configuration
-
+PWM接口配置 \
+PWM Port configuration
 
