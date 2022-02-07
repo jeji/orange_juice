@@ -87,8 +87,10 @@ BOM：[iBOM](bom/ibom.html)
 
 
 ## 软件 Software
-To be updated
+**To be updated** \
+
 Following configuration is assumping that your pi has been configed as a MCU, guidence here
+
 ADXL345配置 \
 ADXL345 configuration
 
