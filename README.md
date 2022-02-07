@@ -25,22 +25,23 @@ bilibili：https://b23.tv/pqzW2up
 ![](images/orange_juice_board_back_v0.7.png)  
 
 受全球芯片短缺情况影响，树莓派价格涨到了离谱的位置。
-所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。\
+所以香橙派zero成了一个很好的替代品。120元左右的512MB版本可以满足做为klipper宿主的所有需求，甚至有点性能过剩。
 
 klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端子去连接非常的不方便。在使用扩展板后不仅方便了许多，且可以得到额外的功能：
 - 一个专为[ADXL345](https://www.adafruit.com/product/1231) 设计的接口将香橙派SPI1总线引出
 - 一个专为[Adafruit MAX31865 board](https://www.adafruit.com/product/3328) 及其克隆版本设计的接口，作为软SPI使用了4个gpio接口
 - 两个从香橙派引出的USB2.0 TypeA接口
 - 一个UART接口
-- 三组gpio控制的PWM输出接口，插座输出电压与输入电压相同
+- 三组gpio控制的PWM输出接口，最大输出电压与输入电压相同
+- 三组gpio接口配合5v电源接口，方便自定义其他功能
 - 两组恒定5v输出接口
 - 一个香橙派专用散热3010风扇安装位
-- 自带降压电路，将9~28V输入电压降压为5V供香橙派使用
-- 扩展板大小及安装孔位与树莓派B系列保持一样
-- DCIN供电接口防反设计，防止输入电源正负极反接
+- 自带降压电路，接受9~24V输入电压降压为5V供香橙派及其接口使用
+- 扩展板大小及安装孔位与树莓派B系列保持一致
+
 
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
-Hence OrangePi Zero become a good alternative. A 25 dollars 512MB ram version meets all the requirments I need as a klipper host for my Voron V0.1, and actually even little bit over kill. \
+Hence OrangePi Zero become a good alternative. A 25 dollars 512MB ram version meets all the requirments I need as a klipper host for my Voron V0.1, and actually even little bit over kill. 
 
 Klipper has some advance features which need connect to gpio pins, it's not that convenience to use a pin header to connect gpio pin every time. Instead of that, with this board, it provides easier connection and more useful features:
 - A dedicate [ADXL345](https://www.adafruit.com/product/1231) port is extended from OrangePi zero SPI1 bus
@@ -48,11 +49,11 @@ Klipper has some advance features which need connect to gpio pins, it's not that
 - Two USB2.0 Type A ports are extended from orange pi function pin
 - A UART port for UART communication with printer MCU board
 - Three klipper controllable pwm output ports, voltage depends on input DC voltage
-- Two channel persistent 5v output
-- A build in 3010 chip cooling fan position
-- A build in step-down buck converter to convert DC 9~24v input to DC 5v to supply pi and 5v output socket
+- Three gpio port from orangepi with 5v power, for custom function
+- Two 5v output ports
+- A built-in 3010 chip cooling fan position
+- A built-in step-down buck converter to convert DC 9~24v input to DC 5v to supply pi and 5v output socket
 - Raspberry Pi B Serials board size and mount hole position compatible 
-- DC In reverse protetion circuit design
 
 ![](images/top.png)  
 
