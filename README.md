@@ -10,12 +10,14 @@ bilibili：https://b23.tv/pqzW2up
 - 你将自行承担由此带来的所有风险
 - 社区有诸多反馈香橙派zero的CPU温度过高，所以在使用中请加强散热
 - 本项目为基于GPL3.0的开源项目，欢迎魔改。如果你有更好的改进也请务必与我分享 
+- **尽管本项目基于GPL3.0，但本人保留本项目涉及到软硬件、外观、名称等所有权，未授权情况下严禁用于任何商业目的**
 - **(!) 请特别注意文章中加粗和带"(!)"部分的内容**
 
 - I'm not prefesstional electronic engineer, I designed this for fun and convenience while DIY my Voron printer
 - You will take it as your own risk for any potential damages
 - Overheat issue is being reported for OrangePi Zero H2+ CPU, hence a proper cooling fan even with cooling fin is strongly recommended
 - This project is based GPL3.0 license, you are free to modify it to yourown version. Please do share the joy with me if you did that
+- Even this project is based on GPL3.0, all rights are reserved include hardware, software, logo etc. Commerial usage is not allowed without authorization.
 - **(!) Please pay attention for the bold and with "(!)" content**
 
 # 代号：橙汁 BoardName：Orange Juice
