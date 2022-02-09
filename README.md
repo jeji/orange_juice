@@ -40,6 +40,7 @@ klipper有诸多独特的功能需要使用到gpio针脚，每次都用排母端
 - 一个香橙派专用散热3010风扇安装位
 - 自带降压电路，接受9~24V输入电压降压为5V供香橙派及其接口使用
 - 扩展板大小及安装孔位与树莓派B系列保持一致
+- 使用0805或更大尺寸封装贴片封装以方便手工贴片
 
 
 Due to current chipset shortage sitatuion, raspberry pi price increase to an unreasonable level. 
@@ -56,6 +57,7 @@ Klipper has some advance features which need connect to gpio pins, it's not that
 - A built-in 3010 chip cooling fan position
 - A built-in step-down buck converter to convert DC 9~24v input to DC 5v to supply pi and 5v output socket
 - Raspberry Pi B Serials board size and mount hole position compatible 
+- 0805 or larger size SMD components are being used for hand soldering
 
 ![](images/top.png)  
 
