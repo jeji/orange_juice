@@ -132,8 +132,8 @@ PWM接口配置 \
 PWM Port configuration
 
 下为PWM控制的输出插座，对应插槽PWM1 ~ PWM3 \
-**(!) 请注意，由于香橙派内核原因，PWM2和PWM3从系统加电启动到klipper正式运行前，默认为高电平，即为打开状态。待klipper正式运行后恢复设置状态** 
-PWM control input-voltage output slot 
+**(!) 请注意，由于香橙派内核原因，PWM2和PWM3从系统加电启动到klipper正式运行前，默认为高电平，即为打开状态。待klipper正式运行后恢复设置状态** \
+PWM control input-voltage output slot \
 **(!) Pay attention, because of the linux kernel complied by Orange Pi, the PMW2 and PWM3 is on HIGH (ON) from the power on till klipper start functioning**
 ```
 [fan_generic PWM1_Fan]
