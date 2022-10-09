@@ -89,18 +89,19 @@ BOM：[iBOM](bom/ibom.html)
 
 
 ## 软件 Software
-**To be updated** \
+**To be updated** 
 
 请参考config目录下的orange_juice.cfg文件 \
-orange_juice.cfg under config folder for you reference \
+orange_juice.cfg under config folder for you reference 
 
 **(!) 以下配置依赖香橙派已经被正确配置成klipper客户端 **\
 具体方法请参考 https://www.klipper3d.org/RPi_microcontroller.html \
 **(!) Following configuration is assuming that your pi has been config as a klipper client** \
-If not, please refer to  https://www.klipper3d.org/RPi_microcontroller.html \
+If not, please refer to  https://www.klipper3d.org/RPi_microcontroller.html 
 
 ADXL345配置 \
-ADXL345 configuration \
+ADXL345 configuration 
+
 [adxl345]
 cs_pin: opi:gpio13
 spi_bus: spidev1.0
@@ -110,7 +111,8 @@ accel_chip: adxl345
 probe_points: 60,60,20 #测试点，需要更改为你机器热床中心点，依次为x,y,z
 
 MAX31865配置如下，**(!) 你还需要在本节或者其他文件里定义挤出机其他配置** \
-MAX31865 config, **(!) you have to define other extruder value seperately** \
+MAX31865 config, **(!) you have to define other extruder value seperately** 
+
 [extruder]
 sensor_type: MAX31865
 sensor_pin: opi:gpio1
@@ -126,9 +128,8 @@ rtd_use_50Hz_filter: True
 PWM接口配置 \
 PWM Port configuration
 
-
 下为PWM控制的输出插座，对应插槽PWM1 ~ PWM3\
-**(!) ！！！请注意，由于香橙派内核原因，PWM2和PWM3从系统加电启动到klipper正式运行前，默认为高电平，即为打开状态。待klipper正式运行后恢复设置状态！！！**
+**(!) ！！！请注意，由于香橙派内核原因，PWM2和PWM3从系统加电启动到klipper正式运行前，默认为高电平，即为打开状态。待klipper正式运行后恢复设置状态！！！ **
 PWM control input-voltage output slot
 **(!) !!!Pay attention, because of the linux kernel complied by Orange Pi, the PMW2 and PWM3 is on HIGH (ON) from the power on till klipper start functioning!!! **
 
