@@ -89,7 +89,6 @@ BOM：[iBOM](bom/ibom.html)
 
 
 ## 软件 Software
-**To be updated** 
 
 请参考config目录下的orange_juice.cfg文件 \
 orange_juice.cfg under config folder for you reference 
