@@ -70,7 +70,7 @@ Klipper has some advance features which need connect to gpio pins, it's not that
 
 # 如何使用 How to use
 ## 硬件 Hardware
-PCB打板：[gerber文件](gerber/orange_juice_v0.7_gerber.zip)
+PCB打板：[gerber文件](gerber/orange_juice_v0.8_gerber.zip)
 - 你可以在嘉立创或者其他你喜欢的厂商免费打板
 - 保持打板厂商默认设置即可
 
@@ -79,7 +79,7 @@ BOM：[电子元件BOM](bom/ibom.html)
 - 我使用的元件购买至淘宝，主要来自优信
 - **(!) 香橙派针脚接头需要使用加高7.5mm的排母针脚，** 参考链接：[这里](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5abe2e8dp4SvIq&id=562698441144&_u=u181c59936e) 
 
-PCB board：[gerber file](gerber/orange_juice_v0.7_gerber.zip)
+PCB board：[gerber file](gerber/orange_juice_v0.8_gerber.zip)
 - You can get the PCB board from JLC or other PCB manufactory 
 - Usually, keep the defualt setting shall be ok when you place your order
 
