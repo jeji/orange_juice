@@ -3,8 +3,8 @@ youtube: https://www.youtube.com/channel/UChTFW-Y9eg54AaTY_yama7A \
 bilibili：https://b23.tv/pqzW2up
 
 # 版本信息 Release Note
-2022/10/09: v0.8 Reverse the polarity to match the common wire setup
-2022/02/06: v0.7 bate release version, passed function and stable test.
+2022/10/09: v0.8 Reverse the polarity to match the common wire setup \
+2022/02/06: v0.7 bate release version, passed function and stable test
 
 # 开始之前 Before You Start 
 - 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机
