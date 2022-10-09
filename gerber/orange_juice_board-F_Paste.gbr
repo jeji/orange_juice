@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*%
-%TF.CreationDate,2022-02-05T18:56:51+08:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8)*%
+%TF.CreationDate,2022-10-09T17:43:42+08:00*%
 %TF.ProjectId,orange_juice_board,6f72616e-6765-45f6-9a75-6963655f626f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-02-05 18:56:51*
+G04 Created by KiCad (PCBNEW (6.0.8)) date 2022-10-09 17:43:42*
 %MOMM*%
 %LPD*%
 G01*
@@ -88,8 +88,8 @@ X106783500Y-62738000D03*
 %TD*%
 D16*
 %TO.C,C3*%
-X168539200Y-90043000D03*
-X166639200Y-90043000D03*
+X167830000Y-89910000D03*
+X165930000Y-89910000D03*
 %TD*%
 D17*
 %TO.C,D3*%
