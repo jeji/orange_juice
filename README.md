@@ -12,9 +12,9 @@ bilibili：https://b23.tv/pqzW2up
 TODO:
 - Integrate CAN controller 
 - Add motor driver socket as an universal socket for other feature, like: 
--- PWM controlled open loop buck convert for better fan noise 
--- Voron design MAX31865
--- Other SPI/UART/GPIO device
+   - PWM controlled open loop buck convert for better fan noise 
+   - Voron design MAX31865
+   - Other SPI/UART/GPIO device
 
 # 开始之前 Before You Start 
 - 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机
