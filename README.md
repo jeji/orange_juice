@@ -10,7 +10,7 @@ bilibili：https://b23.tv/pqzW2up
 **[Version for Orange Pi Zero2](https://github.com/jeji/orange_juice_2)** \
 
 TODO:
-- Integrate CAN controller 
+- Integrate CAN controller/receivier
 - Add motor driver socket as an universal socket for other feature, like: 
    - PWM controlled open loop buck convert for better fan noise 
    - Voron design MAX31865
