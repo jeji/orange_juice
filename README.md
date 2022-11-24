@@ -6,7 +6,7 @@ bilibili：https://b23.tv/pqzW2up
 2022/10/09: v0.8 Reverse the polarity to match the common wire setup \
 2022/02/06: v0.7 bate release version, passed function and stable test
 
-**[香橙派Zero2版本](https://github.com/jeji/orange_juice_2)**
+**[香橙派Zero2版本](https://github.com/jeji/orange_juice_2)** \
 **[Version for Orange Pi Zero2](https://github.com/jeji/orange_juice_2)**
 
 # 开始之前 Before You Start 
