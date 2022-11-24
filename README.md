@@ -7,7 +7,14 @@ bilibili：https://b23.tv/pqzW2up
 2022/02/06: v0.7 bate release version, passed function and stable test
 
 **[香橙派Zero2版本](https://github.com/jeji/orange_juice_2)** \
-**[Version for Orange Pi Zero2](https://github.com/jeji/orange_juice_2)**
+**[Version for Orange Pi Zero2](https://github.com/jeji/orange_juice_2)** \
+
+TODO:
+- Integrate CAN controller 
+- Add motor driver socket as an universal socket for other feature, like: 
+-- PWM controlled open loop buck convert for better fan noise 
+-- Voron design MAX31865
+-- Other SPI/UART/GPIO device
 
 # 开始之前 Before You Start 
 - 我并不是专业的电子工程师，设计本项目只是为了好玩和方便DIY Voron 3D打印机
